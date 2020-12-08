@@ -7,7 +7,7 @@ Aplikasi perpustakaan online yang dibuat dengan bahasa PHP. Aplikasi Perpustakaa
 ## Installation
 1. Clone it into your workspace
    ```
-   git clone https://github.com/fannyhasbi/perpustakaan
+   git clone https://github.com/jonitampan/perpustakaan
    ```
 2. Make a database called `perpustakaan` in MySQL or MariaDB and import the `perpustakaan.sql` file.
 
